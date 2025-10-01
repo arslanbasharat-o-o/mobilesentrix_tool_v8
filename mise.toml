@@ -1,2 +1,6 @@
+# mise.toml
 [settings]
 python_compile = true
+
+[tools]
+python = "3.12"
